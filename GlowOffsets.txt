@@ -15,7 +15,6 @@ namespace CEZAGLOW
         public static int GlowIndex = 0x10488;
 
         public static int Dormant = 0xED;
-
     }
-    // offsetleri burdan çekiyorum evet :)
 }
+// offsetleri burdan çekiyorum evet :)
