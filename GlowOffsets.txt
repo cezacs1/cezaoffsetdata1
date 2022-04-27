@@ -1,6 +1,6 @@
 namespace CEZAGLOW
 {
-    class cl_Offsets
+    class Offsets
     {
         public static int LocalPlayer = 0xDB75DC;
         
