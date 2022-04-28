@@ -15,14 +15,7 @@ namespace CEZAGLOW
 
         public static int var_offset_GlowIndex = 0x10488;
 
-        public static int var_offset_ActiveWeapon = 0x2F08;
-
-        public static int var_offset_ItemDefinitionIndex = 0x2FBA;
-
         public static int var_offset_Dormant = 0xED;
         
     }
-    
-    // Güncellemeyi burdan yapıyorum evet :)
-    
-}
+}    // CEZA OFFSETS
