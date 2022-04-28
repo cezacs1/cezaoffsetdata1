@@ -1,21 +1,41 @@
-namespace CEZAGLOW
+namespace /*rnd*/CEZAGLOW/*rnd*/
 {
-    class cl_Offsets
+    class /*rnd*/cl_Offsets/*rnd*/
     {
-        public static int var_offset_LocalPlayer = 0xDB75DC;
-        
-        public static int var_offset_Health = 0x100;
-        
-        public static int var_offset_Team = 0xF4;
+        /*junk_method*/
+        /*order-start*/
+        /*order-*/
+        public static int /*rnd*/var_offset_LocalPlayer/*rnd*/ = /*number*//*offset_LocalPlayer*/0xDB75DC/*offset_LocalPlayer*//*number*/;/*order-*/
+        /*order-*/
+        public static int /*rnd*/var_offset_Health/*rnd*/ = /*number*//*offset_Health*/0x100/*offset_Health*//*number*/;/*order-*/
+        /*order-*/
+        public static int /*rnd*/var_offset_Team/*rnd*/ = /*number*//*offset_Team*/0xF4/*offset_Team*//*number*/;/*order-*/
+        /*junk_method*/
 
-        public static int var_offset_EntityList = 0x4DD345C;
 
-        public static int var_offset_GlowObject = 0x531C060;
 
-        public static int var_offset_GlowIndex = 0x10488;
 
-        public static int var_offset_Dormant = 0xED;
+        /*order-*/
+        public static int /*rnd*/var_offset_EntityList/*rnd*/ = /*number*//*offset_EntityList*/0x4DD345C/*offset_EntityList*//*number*/;/*order-*/
+
+
+        /*order-*/
+        public static int /*rnd*/var_offset_GlowObject/*rnd*/ = /*number*//*offset_GlowObject*/0x531C060/*offset_GlowObject*//*number*/;/*order-*/
+        /*order-*/
+        public static int /*rnd*/var_offset_GlowIndex/*rnd*/ = /*number*//*offset_GlowIndex*/0x10488/*offset_GlowIndex*//*number*/;/*order-*/
+
+
+
+
+
+        /*order-*/
+        public static int /*rnd*/var_offset_ActiveWeapon/*rnd*/ = /*number*//*offset_ActiveWeapon*/0x2F08/*offset_ActiveWeapon*//*number*/;/*order-*/
+        /*junk_method*/
+        /*order-*/
+        public static int /*rnd*/var_offset_ItemDefinitionIndex/*rnd*/ = /*number*//*offset_ItemDefinitionIndex*/0x2FBA/*offset_ItemDefinitionIndex*//*number*/;/*order-*/
+
+        /*order-*/
+        public static int /*rnd*/var_offset_Dormant/*rnd*/ = /*number*//*offset_Dormant*/0xED/*offset_Dormant*//*number*/;/*order-*/
 
     }
-    // offsetleri burdan çekiyorum evet :)
 }
