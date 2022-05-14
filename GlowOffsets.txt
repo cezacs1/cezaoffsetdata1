@@ -9,9 +9,9 @@ namespace CEZAGLOW
 
         public static int var_offset_Team = 0xF4;
 
-        public static int var_offset_EntityList = 0x4DD348C;
+        public static int var_offset_EntityList = 0x4DD345C;
         
-        public static int var_offset_GlowObject = 0x531C090;
+        public static int var_offset_GlowObject = 0x531C048;
         
         public static int var_offset_GlowIndex = 0x10488;
 
